@@ -165,7 +165,6 @@ function App() {
 export default App;
 ```
 ## OUTPUT
-<img width="1885" height="962" alt="image" src="https://github.com/user-attachments/assets/d85ac343-952a-4f4e-8fde-6fa2dce9c214" />
 
 
 ## RESULT
